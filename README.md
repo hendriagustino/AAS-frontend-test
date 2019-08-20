@@ -7,7 +7,7 @@ This project is a coding test / developer test which I did for the AAS. I am req
 ![taxationScheme.png](images/taxationScheme.png)
 
 ## Taxation Relief
-![taxationRelief.png](images/taxationRelief.png)
+![taxRelief.png](images/taxRelief.png)
 
 # Snapshots of Web App 
 ## Main page of Online Pajak web app
