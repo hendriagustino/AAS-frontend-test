@@ -10,7 +10,7 @@ This project is a coding test / developer test which I did for the AAS. I am req
 ![taxRelief.png](images/taxRelief.png)
 
 # Snapshots of Web App 
-## Main page of Online Pajak web app
+## Main page of Web Application
 ![main.png](images/main.png)
 
 # Installation Instructions
